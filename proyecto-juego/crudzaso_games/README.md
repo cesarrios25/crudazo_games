@@ -1,6 +1,6 @@
-# CRUDAZSO Games
+# WHAT DO YOU KNOW SO MUCH?
 
-CRUDAZSO Games is a command-line mini‑platform that manages users,
+What do you know so much?, is a command-line mini‑platform that manages users,
 authentication, and a trivia-style game.\
 The project is structured in modular Python files, making it easy to
 extend, maintain, and scale.
@@ -77,6 +77,15 @@ The main menu will guide you through login, registration, and gameplay.
 A lightweight modular trivia platform designed for learning, practicing
 Python, and experimenting with CRUD + game dynamics.
 
+## 6. Libraries used
+- pwinput
+
+## 7. Test Scenarios
+
+1. Login with user already in database (JSON file), the data is entered and as a result there is a successful login.
+2. User registration in database (JSON file), and login with that same user and as a result login.
+3. Entry as administrator with correct data stored, result is enabled in admin menu (CRUD)
+
 ------------------------------------------------------------------------
 
-Enjoy hacking on **CRUDAZSO Games**! 🎮🔥
+Enjoy hacking on **WHAT DO KNOW SO MUCH? Games**! 🎮🔥
